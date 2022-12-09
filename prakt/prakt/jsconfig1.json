@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=motofix;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true"
+  }
+}

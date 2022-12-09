@@ -37,5 +37,4 @@
 ![image](https://user-images.githubusercontent.com/107140869/201204951-913c90e8-c35a-4962-86ab-90f528bfb327.png)
 
 ## 1.4 ER-диаграмма:
-![image](https://user-images.githubusercontent.com/107140869/201269683-b0f41097-6070-4afc-bc52-65a8f403cea0.png)
 
